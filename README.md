@@ -1,4 +1,4 @@
-![alt_text](images/Welcome!.png)
+![alt_text](images/Welcome.png)
 
 <!--
 **Areeb297/Areeb297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
