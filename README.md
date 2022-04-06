@@ -2,7 +2,7 @@
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
-- 🔭 I’m currently working on [a data collection pipeline project in the AiCore program](https://github.com/Areeb297/Data-Collection-Pipeline)
+- 🔭 I’m currently working on building a [Data Collection Pipeline](https://github.com/Areeb297/Data-Collection-Pipeline) as part of the AiCore Programme
 
 - 👨‍💻 All of my projects are available at [https://github.com/Areeb297?tab=repositories](https://github.com/Areeb297?tab=repositories)
 
