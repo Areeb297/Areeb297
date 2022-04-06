@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Areeb297?tab=repositories](https://github.com/Areeb297?tab=repositories)
 
-- 📚 Interested in applications of AI & analytics in domains such as [Healthcare](https://github.com/Areeb297/IBM-Machine-Learning-Professional-Certificate/tree/main/Heart%20Disease%20Project), [E-commerce](https://github.com/Areeb297/Customer-Review-Score-ML-Predictor), [Education](https://github.com/Areeb297/MSc-Dissertation-Project-EAGANs) & [Politics](https://github.com/Areeb297/Warwick-Data-Science-Research-Project)
+- 📚 Interested in applications of AI & analytics in domains such as [Healthcare](https://github.com/Areeb297/IBM-Machine-Learning-Professional-Certificate/tree/main/Heart%20Disease%20Project), [E-commerce](https://github.com/Areeb297/Customer-Review-Score-ML-Predictor), [Education](https://github.com/Areeb297/MSc-Dissertation-Project-EAGANs), [Politics](https://github.com/Areeb297/Warwick-Data-Science-Research-Project)
 
 - 📫 How to reach me **areeb.shafqat@gmail.com**
 
