@@ -1,6 +1,5 @@
 ![alt_text](images/Welcome.png)
 
-<h1 align="center">Hi 👋, I'm Areeb Shafqat</h1>
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick</h3>
 
 - 🔭 I’m currently working on [a data collection pipeline project in the AiCore program](https://github.com/Areeb297/Data-Collection-Pipeline)
