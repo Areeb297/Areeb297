@@ -1,4 +1,4 @@
-![alt_text](images/Welcome.png)
+![alt_text](images/welcome.png)
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
