@@ -2,7 +2,7 @@
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
-- 🔭 I’m currently working on building a [Amazon Data Collection Pipeline](https://github.com/Areeb297/Data-Collection-Pipeline) as part of the AiCore Ai & Data Specialist Programme
+- 🔭 I have recently completed building a production-grade scraper or an [Amazon Data Collection Pipeline](https://github.com/Areeb297/Data-Collection-Pipeline) as part of the AiCore Ai & Data Specialist Programme
 
 - 👨‍💻 All of my projects are available at [https://github.com/Areeb297?tab=repositories](https://github.com/Areeb297?tab=repositories)
 
