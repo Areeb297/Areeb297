@@ -2,6 +2,8 @@
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
+- 🌱 I’m currently working on building a [Facebook Marketplace Recommendation System](https://github.com/Areeb297/Facebook-Marketplace-Recommendation) as part of the ML Engineering specialism project with AiCore
+
 - 🔭 Built a production-grade scraper or an [Amazon Data Collection Pipeline](https://github.com/Areeb297/Data-Collection-Pipeline) as part of the AiCore Ai & Data Specialist Programme
 
 - 👨‍💻 All of my projects are available at [https://github.com/Areeb297?tab=repositories](https://github.com/Areeb297?tab=repositories)
