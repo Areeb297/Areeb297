@@ -2,7 +2,7 @@
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
-- 🌱 Built a similar system to the [Facebook Marketplace Recommendation System](https://github.com/Areeb297/Facebook-Marketplace-Recommendation) as part of ML Engineering specialism
+- 🌱 Built a similar system to the [Facebook Marketplace Recommendation Ranking System](https://github.com/Areeb297/Facebook-Marketplace-Recommendation) as part of ML Engineering specialism
 
 - 🔭 Built a production-grade scraper or an [Amazon Data Collection Pipeline](https://github.com/Areeb297/Data-Collection-Pipeline) as part of the AiCore Ai & Data Specialist Programme
 
