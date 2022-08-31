@@ -1,5 +1,7 @@
 ![alt_text](images/welcome.png)
 
+![Profile views](https://gpvc.arturio.dev/[Areeb297])
+
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
 - 🌱 Built a similar system to the [Facebook Marketplace Recommendation System](https://github.com/Areeb297/Facebook-Marketplace-Recommendation) as part of AiCore ML Engineering specialism
