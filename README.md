@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **areeb.shafqat@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/areebshafqat297/](https://www.linkedin.com/in/areebshafqat297/)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [https://www.linkedin.com/in/areebshafqat297/](https://www.linkedin.com/in/areebshafqat297/)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/areebshafqat297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areebshafqat297" height="30" width="40" /></a>
 <a href="https://www.facebook.com/areeb.shafqat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="areeb shafqat" height="30" width="40" /></a>
