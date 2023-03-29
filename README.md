@@ -4,7 +4,7 @@
 
 <h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
-- 🧠 Built a ![change detection system using Siamese Networks](https://github.com/Areeb297/FellowshipAI_Change_Detection_Project) with SOTA models like SarasNET as part of the fellowship program with Fellowship.AI
+- 🧠 Built a ![change detection system using Siamese Networks](https://github.com/Areeb297/FellowshipAI_Change_Detection_Project) with SOTA models like SarasNET as part of fellowship with Fellowship.AI
 
 - 🌱 Built a similar system to the [Facebook Marketplace Recommendation System](https://github.com/Areeb297/Facebook-Marketplace-Recommendation) as part of AiCore ML Engineering specialism
 
