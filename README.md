@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Areeb297)
 
-<h3 align="center"> E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
+<h3 align="center"> Data Scientist | Software Engineer | E-Business Management (Digital & Data Science) (MSc) from the University of Warwick </h3>
 
 - 🧠 Built a [change detection system using Siamese Networks](https://github.com/Areeb297/FellowshipAI_Change_Detection_Project) with SarasNET as part of fellowship with Fellowship.AI
 
