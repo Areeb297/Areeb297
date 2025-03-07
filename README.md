@@ -1,4 +1,4 @@
-![alt_text](images/welcome.png)
+![alt_text](images/Profile_description.png)
 
 
 <h3 align="center"> Data Scientist | AI & Software Engineer | E-Business Management (Digital & Data Science) (MSc)</h3>
