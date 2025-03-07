@@ -1,6 +1,5 @@
 ![alt_text](images/welcome.png)
 
-![Profile views](https://gpvc.arturio.dev/Areeb297)
 
 <h3 align="center"> Data Scientist | AI & Software Engineer | E-Business Management (Digital & Data Science) (MSc)</h3>
 
